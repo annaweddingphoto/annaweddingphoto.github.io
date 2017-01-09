@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+
+User-agent: Yandex
+Disallow:
+Host: annaweddingphoto.com
+
+
+
+User-agent: StackRambler
+Disallow:
+Host: annaweddingphoto.com
